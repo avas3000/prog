@@ -1,3 +1,4 @@
-print(5+10)
-name=input("how is ur name? ")
-print("wake up, "+name)
+a=int(input ("put a number pls  "))
+print ("previous number before "+str(a)+" is "+str(a-1))
+print ("next number after "+str(a)+" is "+str(a+1))
+
